@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Find It Out</string>
+    <string name="title_activity_index" translatable="false">Index</string>
+    <string name="advice1">Keep going, someday you\'ll find out…</string>
+    <string name="advice2">You\'re going too fast, take a break!</string>
+    <string name="advice3">Well, we told you… Bye!</string>
+</resources>

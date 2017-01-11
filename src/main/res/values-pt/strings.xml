@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Descubra</string>
+    <string name="advice1">Continue, um dia você descubrirá…</string>
+    <string name="advice2">Você está indo rápido demais, dê uma pausa!</string>
+    <string name="advice3">Bom, nós avisamos... Adeus!</string>
+</resources>
